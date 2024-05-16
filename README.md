@@ -18,6 +18,7 @@
   - Configured and managed Group Policy Objects (GPO) to enforce security policies, deploy software, and streamline desktop management. 
   - Provisioned and installed new desktop computers, laptops, and printers and joined them to the domain.
   - Configured a Synology DS923+ NAS as a network drive for file management and data backup.
+  - Created a ticketing system within Slack in order to address end user issues including hardware, software, and networking.
   - Maintained and troubleshooted laboratory computers and equipment including KingFisher Flex and QuantStudio 5/12k
 
 **Lab Assistant @ MCDB Laboratories - UC Santa Barbara (_June 2017 - January 2019_)**
