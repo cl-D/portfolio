@@ -29,7 +29,13 @@
 
 
 ## Projects
-
+**Cybersecurity SIEM Honeypot Project**
+- Deployed a vulnerable Windows 10 VM in Microsoft Azure that served as a honeypot for attackers.
+- Parsed Windows Event Viewer logs for failed RDP attacks and used a powershell script, with the ipgeolocation.io API, to map the attackers IP to a geolocation.
+- Stored the parsed data from the Event Viewer logs in a table in Microsoft's Log Analytics workspace.
+- Used Microsoft Sentinel to graph the attackers geolocation on a map.
+**OpenVAS Vulnerability Management Project**
+- 
 ## Skills
 LIMS; MS Word/Excel/Powerpoint; Microsoft Office 365; Data Analysis; SQLite; PostgreSQL; Python; Active Directory; DHCP; DNS; LAN; GPO; Networking; Help Desk; Ticketing System; Virtual Machines; File Permissions; Windows 10/11; Windows Server 2019/2022
 
