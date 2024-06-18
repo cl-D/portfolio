@@ -3,7 +3,7 @@
 #### Technical Skills: Active Directory, Microsoft 365, DHCP, DNS, LAN
 
 ## Education 			        		
-- B.S., Microbiology | University of California, Santa Barbara (_August 2018_)
+- B.S., Microbiology | UC, Santa Barbara (_August 2018_)
 
 ## Certificates
 - CompTIA A+ (_In Progress_)
