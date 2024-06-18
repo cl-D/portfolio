@@ -29,13 +29,13 @@
 
 
 ## Projects
-**Cybersecurity SIEM Honeypot Project**
+[**Cybersecurity SIEM Honeypot Project**](https://github.com/cl-D/SIEM-Project)
 - Deployed a vulnerable Windows 10 VM in Microsoft Azure that served as a honeypot for attackers.
 - Parsed Windows Event Viewer logs for failed RDP attacks and used a powershell script, with the ipgeolocation.io API, to map the attackers IP to a geolocation.
 - Stored the parsed data from the Event Viewer logs in a table in Microsoft's Log Analytics workspace.
 - Used Microsoft Sentinel to graph the attackers geolocation on a map.
 
-**OpenVAS Vulnerability Management Project**
+[**OpenVAS Vulnerability Management Project**](https://github.com/cl-D/Vulnerability-Management-Project)
 - Deployed Metasploitable 2, an intentionally vulnerable Linux VM, to serve as a target for vulnerability scans.
 - Installed OpenVAS on a Kali Linux VM to run unauthenticated vulnerability scans against the Metasploitable 2 VM.
 -  Analyzed the scan results to indentiy remediable vulnerabilities in our system.
