@@ -6,8 +6,8 @@
 - B.S., Microbiology | UC, Santa Barbara (_August 2018_)
 
 ## Certificates
-- CompTIA A+ (_In Progress_)
 - CompTIA Network+ (_In Progress_)
+- CompTIA Security+ (_In Progress_)
 
 ## Work Experience
 **IT Technician @ Flow Health (_October 2020 - February 2024_)**
