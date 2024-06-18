@@ -38,7 +38,7 @@
 [**OpenVAS Vulnerability Management Project**](https://github.com/cl-D/Vulnerability-Management-Project)
 - Deployed Metasploitable 2, an intentionally vulnerable Linux VM, to serve as a target for vulnerability scans.
 - Installed OpenVAS on a Kali Linux VM to run unauthenticated vulnerability scans against the Metasploitable 2 VM.
--  Analyzed the scan results to indentiy remediable vulnerabilities in our system.
+-  Analyzed the scan results to identify remediable vulnerabilities in our system.
 
 ## Skills
 LIMS; MS Word/Excel/Powerpoint; Microsoft Office 365; Data Analysis; SQLite; PostgreSQL; Python; Active Directory; DHCP; DNS; LAN; GPO; Networking; Help Desk; Ticketing System; Virtual Machines; File Permissions; Windows 10/11; Windows Server 2019/2022
